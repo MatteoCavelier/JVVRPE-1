@@ -1,0 +1,76 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =========================
+# Unity cache / meta
+# =========================
+*.pidb.meta
+*.pdb.meta
+
+# =========================
+# Build outputs
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# =========================
+# Crash reports
+# =========================
+sysinfo.txt
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.bak
+*.swp
+*.orig
+
+# =========================
+# Addressables
+# =========================
+/Assets/AddressableAssetsData/*/*.bin*
+
+# =========================
+# StreamingAssets cache
+# =========================
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/*
