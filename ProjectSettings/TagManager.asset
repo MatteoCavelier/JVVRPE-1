@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Mug
+  - Sword
   layers:
   - Default
   - TransparentFX
